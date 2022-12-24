@@ -23,3 +23,4 @@ export const MovieList: FC = () => {
         </div>
     )
 }
+
